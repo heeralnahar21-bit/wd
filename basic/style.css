@@ -1,0 +1,36 @@
+h1{
+    color:#3355ff;
+}
+.para{
+    color:green;
+}
+#btn{
+    background-color:rgb(255, 0, 0,0.5);
+    color:white;
+}
+h1:hover{
+
+/* color:hsl(0, 100%, 50%,0.5); */
+color:transparent;
+}
+/*h*/
+/* jkdsaj */
+/* dsvzs */
+.hero-section{
+    color:palevioletred;
+
+}
+p{
+    color:currentColor;
+}
+body{
+    width:100%;
+    height:100 vh;
+    background-color: hsl(0, 0, 94%);
+    background-image: url("coding-1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-blend-mode: difference;
+    
+}
